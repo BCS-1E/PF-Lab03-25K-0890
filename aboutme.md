@@ -1,3 +1,3 @@
-Name: Verda
-Degree: Bachelor in Computer Science
-Hobby: Drawing
+- Name: Verda
+- Degree: Bachelor in Computer Science
+- Hobby: Drawing
